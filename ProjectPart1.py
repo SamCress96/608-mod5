@@ -1,4 +1,4 @@
-#Displaying a Seriese
+#Displaying a Series
 #Pandas displays a Series in two-column format with the indices left aligned in the left column and the values right aligned in the right column. 
 #After listing the Series elements, pandas shows the data type (dtype) of the underlying array’s elements:
 import pandas as pd
